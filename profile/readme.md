@@ -64,8 +64,8 @@ Distributed under the **MIT License**. See [LICENSE](https://github.com/frogmixe
 ## 🐸 Join the Community
 
 - 💬 Telegram: [t.me/frogmixer](https://t.me/+4JUfM1MgH5UyNzQ1)
-- 🐦 TMA: [@frogmixer](http://t.me/FrogBridge_Bot/app)
-- 🌐 BOT: [@frogmixer_bot](http://t.me/FrogBridge_Bot/app)
+- 🐦 TMA: [frogmixer](http://t.me/FrogBridge_Bot/app)
+- 🌐 BOT: [frogmixer_bot](http://t.me/FrogBridge_Bot/app)
 - 🌐 Website : [frogmixer.autos](http://frogmixer.autos)
 
 Thank you for hopping aboard! 🐸✨
