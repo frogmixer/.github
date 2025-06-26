@@ -9,9 +9,16 @@ Welcome to **Frogmixer**! The fully decentralized, open-source multi-chain mixin
 Frogmixer is a cutting-edge, privacy-first service suite providing:
 
 1. 🤖 **Multi-Chain Mixer on Telegram Mini App**
-   - Mix assets across chains including **TON**, **Solana**, and more.
-   - Hide transaction trails while preserving full decentralization.
-   - Seamless, secure mixing with zero custodial risk.
+   - Fast mixer
+     - Fast achive , 90s arrive .
+     - Mix assets across chains including **TON**, **Solana**, and more.
+     - Hide transaction trails while preserving full decentralization.
+     - Seamless, secure mixing with zero custodial risk.
+   - Fully mixer
+     - Fully invisible , mix with top private chains . 
+     - Mix assets across chains including **TON**, **Solana**, and more.
+     - Hide transaction trails while preserving full decentralization.
+     - Seamless, secure mixing with zero custodial risk.
 
 2. 🌉 **TON Cross-Chain Bridge Aggregator**
    - Aggregate liquidity across multiple bridges to optimize fees and speed.
